@@ -167,6 +167,5 @@ public class PerfectNumber {
     }
 }
 ```
-
 ## Output:
-![ADDEXP-4 Output](perfect number.png)
+![ADDEXP-4 Output](perfectnumber.png)
