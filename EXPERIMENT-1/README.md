@@ -1,7 +1,7 @@
 # Experiment-1
 ## 1a) Displaying Default Primitive Data Type
 ## Source code
- java
+``` java
 class DefaultPrimitiveValues {
     static byte b;
     static short s;
@@ -24,13 +24,13 @@ class DefaultPrimitiveValues {
         System.out.println("boolean : " + bool);
     }
 }
-
+```
 ## output:
 ![Experiment 1a) output](1a.png)
 # Experiment-1b
 ## 1b)Calculate the roots of Quadratic Equation
 ## Source code:
- java
+``` java
 import java.util.Scanner;
 
 public class QuadraticEquation {
@@ -78,7 +78,7 @@ public class QuadraticEquation {
         sc.close();
     }
 }
-
+```
 ## Output:
 ## Case1:(D>0)
 ![Experiment 1b) output](quard-1.png)
