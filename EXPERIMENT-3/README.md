@@ -1,7 +1,7 @@
 # Experiment-3
 ## 3a) Title: Implement constructor overloading 
 ## Source Code:
-`` java
+``` java
 class Student {
 
     String name;
@@ -38,7 +38,7 @@ class Main {
 ![Experiment-3a Output](3a.png)
 ## 3b) Title: Binary search mechanism
 ## Source Code:
-``` java
+```java
 import java.util.Scanner;
 
 class BinarySearch {
