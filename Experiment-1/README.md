@@ -26,7 +26,7 @@ class DefaultPrimitiveValues {
 }
 
 ## output:
-![Experiment 1a) output](primitive.png)
+![Experiment 1a) output](1a.png)
 # Experiment-1b
 ## 1b)Calculate the roots of Quadratic Equation
 ## Source code:
