@@ -27,7 +27,7 @@ class Main{
   }
 ```
 ## Output:
-![Experiment-2a Output](.png)
+![Experiment-2a Output](2a.png)
 ## 2b) Title: Implement method overloading
 ## Source Code:
  java
