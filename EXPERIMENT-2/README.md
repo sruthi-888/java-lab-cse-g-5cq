@@ -2,6 +2,7 @@
 ## 2a) Title:Create a class, method and invoke them inside main method
 ## Source Code:
  java
+```
 class Rectangle{
     double length;
     double breadth;
@@ -24,12 +25,13 @@ class Main{
 	System.out.println("Perimeter of a given rectangle: " +perimeter);
     }
   }
-
+```
 ## Output:
 ![Experiment-2a Output](.png)
 ## 2b) Title: Implement method overloading
 ## Source Code:
  java
+ ```
 class Main{
     public static void main(String[] args){
 	Rectangle rect = new Rectangle();
@@ -49,12 +51,13 @@ class Main{
       System.out.println("sum of two reeal numbers: " +S.Sum(30.465,15.675));
     }
   }
-
+```
 ## Output:
 ![Experiment-2b Output](2b.png)
 ## 2c) Title: Implement Constructor
 ## Source Code:
  java
+ ```
 class Student{
     String sname;
     int sage;
@@ -76,6 +79,6 @@ class Main{
       s.display();
     }
   }
-
+```
 ## Output:
 ![Experiment-2c Output](2c.png)
